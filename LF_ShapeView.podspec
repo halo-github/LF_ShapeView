@@ -1,5 +1,5 @@
 #
-#  Be sure to run `pod spec lint shapeView.podspec' to ensure this is a
+#  Be sure to run `pod spec lint LF_ShapeView.podspec' to ensure this is a
 #  valid spec and to remove all comments including this before submitting the spec.
 #
 #  To learn more about Podspec attributes see http://docs.cocoapods.org/specification.html
@@ -15,19 +15,19 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "shapeView"
-  s.version      = "0.0.1"
-  s.summary      = "A short description of shapeView."
+  s.name         = "LF_ShapeView"
+  s.version      = "0.0.3"
+  s.summary      = "A short description of LF_ShapeView."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = <<-DESC
-                   DESC
+  s.description  = 'sdfsldflkjakfjdklsfjlsdjflskdjflsjfdlkjdfkldjfklsdjfl;a'
+                   
 
-  s.homepage     = "http://EXAMPLE/shapeView"
+  s.homepage     = "http://EXAMPLE/LF_ShapeView"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "MIT (example)"
+  s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://EXAMPLE/shapeView.git", :tag => "#{s.version}" }
+  s.source       = { :git => "http://EXAMPLE/LF_ShapeView.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
